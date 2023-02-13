@@ -1,2 +1,2 @@
-#!/binn/bash
+#!/bin/bash
 tr -d cC
